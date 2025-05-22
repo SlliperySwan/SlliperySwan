@@ -1,7 +1,6 @@
 # Hello there!
 
 ## O que estou fazendo?
-### Aprendendo SDL.
+### Aprendendo a usar SDL, Git e Linux.
 ### Desenvolvendo jogos.
-### Sobrevivendo cálculo.
 
